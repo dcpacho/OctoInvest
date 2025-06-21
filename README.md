@@ -1,0 +1,2 @@
+# OctoInvest
+ai trader
